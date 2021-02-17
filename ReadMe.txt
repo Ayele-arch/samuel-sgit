@@ -1,0 +1,5 @@
+
+About the project:
+
+This website specifically designed for the purpose of letting Ethiopian tourism areas clear and visible for tourist and make tours easy peasy for traveler. Since tourist need pre-guide to decide what to see and awareness about the place where they about to go, i designe this website for their tour sake. Moreover, ever since certain time in the past Ethiopia hasn't been working hard on tourism sector thus its tourist rate is drammatically plummeting, so to stop this rampant decline, works must be done; works like advertising tourism areas, motivating foriegn Ethiopian to invite their foriegner friends and encouraging them to be ambassador of Ethiopia, and the last but not the least to invest on e-tourism. As the matter of the case, designing a web and freely acessible pages are the cornerstone of Ethiopia as a government and civilians must do. As one civilian, I contribute this work for this specific reason from my programming first year assignment. As conclusion, my targets are Ethiopian tourism sector and tourists.
+        
